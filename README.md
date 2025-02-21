@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @OA-sid
-- 👀 I’m interested in development 
-- 🌱 I’m currently pursuing Btech
-- 💞️ I’m looking to an internship from where I can polish my skills
-
-
-<!---
-OA-sid/OA-sid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a skilled software developer with expertise in developing scalable and efficient applications using Kotlin. With a strong foundation in software development, I'm actively contributing to 11 public repositories and seeking opportunities to further hone my skills through collaborative projects and knowledge sharing. Currently pursuing a Btech degree, I'm excited to leverage my skills and experiences to drive innovation and growth.
