@@ -4,8 +4,3 @@ I'm a skilled software developer with expertise in developing scalable and effic
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-## 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub)
-
-*Created by [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)*
-
